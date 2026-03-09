@@ -1,4 +1,4 @@
-package real_world_ques;
+package real_world_ques_length;
 
 import java.util.Scanner;
 

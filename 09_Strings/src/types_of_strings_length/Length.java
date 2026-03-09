@@ -1,4 +1,4 @@
-package types_of_strings;
+package types_of_strings_length;
 
 public class Length {
     public static void main(String[] args){
