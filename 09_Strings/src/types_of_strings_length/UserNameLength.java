@@ -1,4 +1,4 @@
-package types_of_strings;
+package types_of_strings_length;
 
 import java.util.Scanner;
 
